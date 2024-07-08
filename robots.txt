@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://airtholow.github.io/sitemap
+Sitemap: https://airtholow.github.io/app/sitemap
+Sitemap: https://airtholow.github.io/assets/sitemap
+Sitemap: https://airtholow.github.io/css/sitemap
+Sitemap: https://airtholow.github.io/includes/sitemap
+Sitemap: https://airtholow.github.io/item/sitemap
+Sitemap: https://airtholow.github.io/src/sitemap
